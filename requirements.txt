@@ -1,0 +1,11 @@
+Pillow
+opencv-python
+gradio
+matplotlib
+numpy
+scikit-learn
+tensorflow
+torch
+torchvision
+tqdm
+transformers
